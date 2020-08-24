@@ -242,7 +242,7 @@
   type: remake
   originals:
   - Cave Story
-  repo: https://github.com/cuckydev/Cave-Story-Engine-2
+  repo: https://github.com/Clownacy/CSE2
   development: active
   status: playable
   lang:
